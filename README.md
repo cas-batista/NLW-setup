@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 -Figma _
 ##  💻 Projeto
 O Habits é um app para ajudar a rastrear os hábitos.
-- [ Visite o projeto online ](https:)
+- [ Visite o projeto online ](https://cas-batista.github.io/NLW-setup)
 
 ## 🔖Layout
 
